@@ -33,7 +33,7 @@ Explore um ambiente intuitivo e detalhado, concentrado na análise de planos, of
 
 ## Capturas de Tela
 <p align="center">
-  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_ATENDIMENTO/blob/main/Vers%C3%A3o%203%20-%20VIVO%20(1).png" width=60%>
+  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_PLANOS/blob/main/Vers%C3%A3o%203%20-%20Claro%20(1).png" width=60%>
 </p>
 
 ## Feedback
